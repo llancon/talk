@@ -1,0 +1,3 @@
+class BibleReading < ApplicationRecord
+  
+end
